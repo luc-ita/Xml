@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+	<method>
+		<vehicle brand="Volkswagen"> Car </vehicle>
+		<owner> Luca </owner>
+		<price currency="PLN" > 5 </price>
+		<comfort> High </comfort>
+	</method>
+	<method>
+		<vehicle brand="Mercedes"> Bus </vehicle>
+		<owner> City </owner>
+		<price currency="PLN" > 1.40 </price>
+		<comfort> Medium </comfort>
+	</method>
+	<method>
+		<vehicle brand="Kross"> Bike </vehicle>
+		<owner> Luca </owner>
+		<price currency="PLN" > 0 </price>
+		<comfort> Low </comfort>
+	</method>
+</transport>
